@@ -1,0 +1,86 @@
+Game,Category,Question (SV),Answer type
+V86,Program/Översikt,Vilka banor och starttider gäller för V86 idag?,list
+V86,Program/Översikt,Hur många avdelningar är det i V86 idag och vilka är starttiderna per avdelning?,list
+V86,Program/Översikt,"Vilken bana kör V86 på idag, och är loppen auto- eller voltstart?",text
+V86,Spelprocent/V%,Vilken häst har högst spelprocent (V%) i V86 avdelning 1?,text/number
+V86,Spelprocent/V%,Vilka är topp 3 mest spelade hästarna (V%) i V86 avdelning 1?,list
+V86,Spelprocent/V%,Finns det någon häst under 10% i V86 avdelning 1 som är rankad A/B? Vilken?,text
+V86,Spelprocent/V%,Vilken häst har högst spelprocent (V%) i V86 avdelning 2?,text/number
+V86,Spelprocent/V%,Vilka är topp 3 mest spelade hästarna (V%) i V86 avdelning 2?,list
+V86,Spelprocent/V%,Finns det någon häst under 10% i V86 avdelning 2 som är rankad A/B? Vilken?,text
+V86,Spelprocent/V%,Vilken häst har högst spelprocent (V%) i V86 avdelning 3?,text/number
+V86,Spelprocent/V%,Vilka är topp 3 mest spelade hästarna (V%) i V86 avdelning 3?,list
+V86,Spelprocent/V%,Finns det någon häst under 10% i V86 avdelning 3 som är rankad A/B? Vilken?,text
+V86,Kusk/Tränare,Vem kör <HÄST> i V86 avdelning <NR>?,text
+V86,Kusk/Tränare,Vem tränar <HÄST> i V86 avdelning <NR>?,text
+V85,Program/Översikt,Vilka banor och starttider gäller för V85 idag?,list
+V85,Program/Översikt,Hur många avdelningar är det i V85 idag och vilka är starttiderna per avdelning?,list
+V85,Program/Översikt,"Vilken bana kör V85 på idag, och är loppen auto- eller voltstart?",text
+V85,Spelprocent/V%,Vilken häst har högst spelprocent (V%) i V85 avdelning 1?,text/number
+V85,Spelprocent/V%,Vilka är topp 3 mest spelade hästarna (V%) i V85 avdelning 1?,list
+V85,Spelprocent/V%,Finns det någon häst under 10% i V85 avdelning 1 som är rankad A/B? Vilken?,text
+V85,Spelprocent/V%,Vilken häst har högst spelprocent (V%) i V85 avdelning 2?,text/number
+V85,Spelprocent/V%,Vilka är topp 3 mest spelade hästarna (V%) i V85 avdelning 2?,list
+V85,Spelprocent/V%,Finns det någon häst under 10% i V85 avdelning 2 som är rankad A/B? Vilken?,text
+V85,Spelprocent/V%,Vilken häst har högst spelprocent (V%) i V85 avdelning 3?,text/number
+V65,Program/Översikt,Vilka banor och starttider gäller för V65 idag?,list
+V65,Program/Översikt,Hur många avdelningar är det i V65 idag och vilka är starttiderna per avdelning?,list
+V65,Program/Översikt,"Vilken bana kör V65 på idag, och är loppen auto- eller voltstart?",text
+V65,Spelprocent/V%,Vilken häst har högst spelprocent (V%) i V65 avdelning 1?,text/number
+V65,Spelprocent/V%,Vilka är topp 3 mest spelade hästarna (V%) i V65 avdelning 1?,list
+V65,Spelprocent/V%,Finns det någon häst under 10% i V65 avdelning 1 som är rankad A/B? Vilken?,text
+V65,Spelprocent/V%,Vilken häst har högst spelprocent (V%) i V65 avdelning 2?,text/number
+V65,Spelprocent/V%,Vilka är topp 3 mest spelade hästarna (V%) i V65 avdelning 2?,list
+V64,Program/Översikt,Vilka banor och starttider gäller för V64 idag?,list
+V64,Program/Översikt,Hur många avdelningar är det i V64 idag och vilka är starttiderna per avdelning?,list
+V64,Program/Översikt,"Vilken bana kör V64 på idag, och är loppen auto- eller voltstart?",text
+V64,Spelprocent/V%,Vilken häst har högst spelprocent (V%) i V64 avdelning 1?,text/number
+V64,Spelprocent/V%,Vilka är topp 3 mest spelade hästarna (V%) i V64 avdelning 1?,list
+V64,Spelprocent/V%,Finns det någon häst under 10% i V64 avdelning 1 som är rankad A/B? Vilken?,text
+V64,Spelprocent/V%,Vilken häst har högst spelprocent (V%) i V64 avdelning 2?,text/number
+V64,Spelprocent/V%,Vilka är topp 3 mest spelade hästarna (V%) i V64 avdelning 2?,list
+GS75,Program/Översikt,Vilka banor och starttider gäller för GS75 idag?,list
+GS75,Program/Översikt,Hur många avdelningar är det i GS75 idag och vilka är starttiderna per avdelning?,list
+GS75,Program/Översikt,"Vilken bana kör GS75 på idag, och är loppen auto- eller voltstart?",text
+GS75,Spelprocent/V%,Vilken häst har högst spelprocent (V%) i GS75 avdelning 1?,text/number
+GS75,Spelprocent/V%,Finns det någon häst under 10% i GS75 avdelning 1 som är rankad A/B? Vilken?,text
+GS75,Spelprocent/V%,Vilken häst har högst spelprocent (V%) i GS75 avdelning 2?,text/number
+GS75,Spelprocent/V%,Vilka är topp 3 mest spelade hästarna (V%) i GS75 avdelning 2?,list
+GS75,Spelprocent/V%,Finns det någon häst under 10% i GS75 avdelning 2 som är rankad A/B? Vilken?,text
+GS75,Spelprocent/V%,Vilken häst har högst spelprocent (V%) i GS75 avdelning 3?,text/number
+DD,Program/Översikt,Vilka lopp ingår i DD idag (loppnummer/avdelningar) och när går de?,list
+DD,Spelprocent/V%,Vilken häst är mest spelad i DD (aktuellt lopp) och vad är spelprocenten?,text/number
+DD,Kusk/Tränare,Vem kör favoriten i DD (aktuellt lopp)?,text
+DD,Odds/Utbetalning,Vilka är aktuella odds för vinnare/plats på <HÄST> i DD-loppet? (om odds visas),number
+DD,Bana,Vilken bana körs spelen på och vilket underlag/banförhållanden gäller (om det visas)?,text
+DD,Bana,Vilka tider är första och sista start för DD idag?,text
+LD,Program/Översikt,Vilka lopp ingår i LD idag (loppnummer/avdelningar) och när går de?,list
+LD,Spelprocent/V%,Vilken häst är mest spelad i LD (aktuellt lopp) och vad är spelprocenten?,text/number
+LD,Kusk/Tränare,Vem kör favoriten i LD (aktuellt lopp)?,text
+LD,Odds/Utbetalning,Vilka är aktuella odds för vinnare/plats på <HÄST> i LD-loppet? (om odds visas),number
+LD,Bana,Vilka tider är första och sista start för LD idag?,text
+V4,Program/Översikt,Vilka lopp ingår i V4 idag (loppnummer/avdelningar) och när går de?,list
+V4,Spelprocent/V%,Vilken häst är mest spelad i V4 (aktuellt lopp) och vad är spelprocenten?,text/number
+V4,Kusk/Tränare,Vem kör favoriten i V4 (aktuellt lopp)?,text
+V4,Odds/Utbetalning,Vilka är aktuella odds för vinnare/plats på <HÄST> i V4-loppet? (om odds visas),number
+V4,Bana,Vilka tider är första och sista start för V4 idag?,text
+V5,Program/Översikt,Vilka lopp ingår i V5 idag (loppnummer/avdelningar) och när går de?,list
+V5,Spelprocent/V%,Vilken häst är mest spelad i V5 (aktuellt lopp) och vad är spelprocenten?,text/number
+V5,Kusk/Tränare,Vem kör favoriten i V5 (aktuellt lopp)?,text
+V5,Odds/Utbetalning,Vilka är aktuella odds för vinnare/plats på <HÄST> i V5-loppet? (om odds visas),number
+V5,Bana,Vilka tider är första och sista start för V5 idag?,text
+Trio,Program/Översikt,Vilka lopp ingår i Trio idag (loppnummer/avdelningar) och när går de?,list
+Trio,Spelprocent/V%,Vilken häst är mest spelad i Trio (aktuellt lopp) och vad är spelprocenten?,text/number
+Trio,Kusk/Tränare,Vem kör favoriten i Trio (aktuellt lopp)?,text
+Trio,Odds/Utbetalning,Vilka är aktuella odds för vinnare/plats på <HÄST> i Trio-loppet? (om odds visas),number
+Tvilling,Program/Översikt,Vilka lopp ingår i Tvilling idag (loppnummer/avdelningar) och när går de?,list
+Tvilling,Spelprocent/V%,Vilken häst är mest spelad i Tvilling (aktuellt lopp) och vad är spelprocenten?,text/number
+Tvilling,Kusk/Tränare,Vem kör favoriten i Tvilling (aktuellt lopp)?,text
+Tvilling,Odds/Utbetalning,Vilka är aktuella odds för vinnare/plats på <HÄST> i Tvilling-loppet? (om odds visas),number
+Vinnare/Plats,Program/Översikt,Vilka lopp ingår i Vinnare/Plats idag (loppnummer/avdelningar) och när går de?,list
+Vinnare/Plats,Spelprocent/V%,Vilken häst är mest spelad i Vinnare/Plats (aktuellt lopp) och vad är spelprocenten?,text/number
+V64,Spelprocent/V%,Finns det någon häst under 10% i V64 avdelning 2 som är rankad A/B? Vilken?,text
+V64,Spelprocent/V%,Vilken häst har högst spelprocent (V%) i V64 avdelning 3?,text/number
+V64,Spelprocent/V%,Vilka är topp 3 mest spelade hästarna (V%) i V64 avdelning 3?,list
+V64,Spelprocent/V%,Finns det någon häst under 10% i V64 avdelning 3 som är rankad A/B? Vilken?,text
+V65,Spelprocent/V%,Finns det någon häst under 10% i V65 avdelning 2 som är rankad A/B? Vilken?,text
