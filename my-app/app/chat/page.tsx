@@ -1,5 +1,4 @@
 import ChatUI from "../../components/chat/ChatUI";
-import "../../styles/ChatUI.css";
 
 export default function ChatPage() {
     return (

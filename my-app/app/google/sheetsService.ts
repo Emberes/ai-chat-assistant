@@ -40,7 +40,6 @@ export async function saveChatToGoogleSheet(
                 values: [[question, answer, new Date().toLocaleString('sv-SE')]],
             },
         });
-        console.log('Loggningen till Google Sheet lyckades!');
         if (langfuseSpan) {
             langfuseSpan.end({
                 output: { status: 'success', message: 'Successfully appended to sheet' },

@@ -15,7 +15,7 @@ import {
     isRacesByTrackAndDateRangeArgs,
     isRacesDateRangeArgs,
 } from './functionMappingGuards';
-import { findGameIdForRace } from '@/app/api/race/route';
+import { findGameIdForRace } from '@/app/lib/race/utils';
 
 export const get_races_date: FunctionMapping = async (args, ctx) => {
     if (!isRaceDateArgs(args)) {

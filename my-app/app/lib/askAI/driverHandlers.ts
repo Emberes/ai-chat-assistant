@@ -1,4 +1,4 @@
-import { findGameIdForRace } from '@/app/api/race/route';
+import { findGameIdForRace } from '@/app/lib/race/utils';
 import { isValidISODate } from './dates';
 import { isDriverInfoArgs } from './functionMappingGuards';
 import { fetchText, findTrackByName, normalize } from './functionMappingHelpers';

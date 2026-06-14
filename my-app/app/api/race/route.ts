@@ -4,44 +4,9 @@ import { LangfuseTraceClient } from 'langfuse';
 import { SearchResult } from '@/app/lib/race/type';
 import { getTodaysDateOfStockholm } from '@/app/lib/askAI/dates';
 import { extractRaceSchedule } from '@/app/lib/race/transform';
+import { CalendarDayRaw } from '@/app/lib/race/utils';
 
 export const runtime = 'nodejs';
-
-type CalendarGame = {
-    id?: string;
-    races?: string[];
-    tracks?: number[];
-};
-
-type CalendarDayRaw = {
-    games?: Record<string, CalendarGame[]>;
-};
-
-export function findGameIdForRace(
-    raw: CalendarDayRaw,
-    gameType: string,
-    trackId: number,
-    raceNumber: number,
-    date: string
-): string | null {
-    const gamesForType = raw?.games?.[gameType];
-
-    if (!Array.isArray(gamesForType)) {
-        return null;
-    }
-
-    const targetRaceId = `${date}_${trackId}_${raceNumber}`;
-
-    for (const game of gamesForType) {
-        const races = Array.isArray(game?.races) ? game.races : [];
-
-        if (races.includes(targetRaceId)) {
-            return typeof game.id === 'string' ? game.id : null;
-        }
-    }
-
-    return null;
-}
 
 export async function GET(req: Request) {
     const parentTraceId = req.headers.get('x-langfuse-trace-id');

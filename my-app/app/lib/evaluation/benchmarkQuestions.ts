@@ -35,4 +35,10 @@ export const benchmarkQuestions: BenchmarkQuestion[] = [
             'V64 består av sex lopp medan V85 består av åtta lopp. Båda är poolspel där spelaren försöker hitta vinnarna i de utvalda loppen.',
         expectedTool: 'get_knowledge_base',
     },
+    {
+        id: 'demo-fail-wrong-reference',
+        question: 'Vad är Harry Boy?',
+        referenceAnswer: 'En katt är ett vanligt husdjur som ofta sover mycket och jagar smådjur.',
+        expectedTool: 'get_faq_question',
+    },
 ];

@@ -32,7 +32,7 @@ function ChatMessageRow({
   content: string;
 }) {
   const isUser = role === "user";
-  const sender = isUser ? "Du" : "🏇🏼Elli";
+  const sender = isUser ? "Du" : "🏇🏼TravHjälpen";
 
   return (
     <div className={`msgRow ${isUser ? "msgRow--user" : "msgRow--bot"}`}>
@@ -50,7 +50,7 @@ function ChatMessageRow({
 const initial_message: ChatMessage = {
   id: "initial-assistant-message",
   role: "assistant",
-  content: "Välkommen till Elli 2.0! Vad kan jag hjälpa dig med?",
+  content: "Välkommen till TravHjälpen! Vad kan jag hjälpa dig med?",
 };
 
 export default function ChatUI() {
@@ -228,8 +228,8 @@ export default function ChatUI() {
         <div className="chatHeader_inner">
           <div className="chatHeader_left">
             <div className="chatHeader_titles">
-              <p className="chatHeader_title">ELLI 2.0</p>
-              <p className="chatHeader_subtitle">ELLi 2.0</p>
+              <p className="chatHeader_title">TravHjälpen</p>
+              <p className="chatHeader_subtitle">TravHjälpen</p>
             </div>
           </div>
 

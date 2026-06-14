@@ -14,3 +14,12 @@ export type EvaluationResult = {
     passed: boolean;
     expectedTool?: string;
 };
+
+export type EvaluationResponse = {
+    ok: boolean;
+    total?: number;
+    passed?: number;
+    failed?: number;
+    results?: EvaluationResult[];
+    error?: string;
+};
